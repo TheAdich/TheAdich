@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Dadhich</h1>
 <h3 align="center">I am a dedicated and motivated individual currently pursuing a degree in Chemical Engineering at IIT Guwahati. Currently, I am pursuing my keen interest in web development building cool web products!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theadich&label=Profile%20views&color=0e75b6&style=flat" alt="theadich" /> </p>
+
 
 - 📫 How to reach me **adidadhich2003@gmail.com**
 
