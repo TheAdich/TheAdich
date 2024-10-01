@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Dadhich</h1>
-<h3 align="center">I am a dedicated and motivated individual currently pursuing a degree in Chemical Engineering at IIT Guwahati. Currently, I am pursuing my keen interest in web development building cool web products!</h3>
+<h1 align="center">Hello, I'm Aditya Dadhich 👋</h1> <h3 align="center">I am a driven and highly motivated individual pursuing a degree in Chemical Engineering at IIT Guwahati. Alongside my academic pursuits, I am actively honing my skills in web development, with a focus on building innovative and impactful web applications. My passion lies in combining technical expertise with creative problem-solving to create exceptional digital products.</h3>
 
 
 
